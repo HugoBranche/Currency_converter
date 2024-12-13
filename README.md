@@ -25,7 +25,7 @@ To run this project, ensure you have the following installed:
 ## Usage
 1. Run the program:
    ```bash
-   python currency_converter.py
+   currency_converter.py
    ```
 
 2. Follow the on-screen instructions to:
